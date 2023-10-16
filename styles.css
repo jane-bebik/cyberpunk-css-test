@@ -74,6 +74,7 @@ body {
     color: white;
     font-size: 24px;
     text-align: right;
+    margin-right: 200px;
 }
 
 .lyrics-box {
@@ -82,4 +83,53 @@ body {
     color: white;
     font-size: 24px;
     text-align: center;
+}
+footer {
+    background-color: #2c3e50;  /* A darker shade of blue for contrast. You can change this color to your preference. */
+    padding: 20px 0;
+    margin-top: 50px;
+}
+
+.footer-content {
+    max-width: 800px;  /* Controlling the width for larger screens. */
+    margin: 0 auto;
+    text-align: center;
+    color: #ecf0f1;  /* A light color for text to contrast with the background. */
+}
+
+.github-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: #ecf0f1;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.github-link:hover {
+    color: #bdc3c7;  /* Slightly lighter color on hover for interactivity. */
+}
+
+.github-link img {
+    width: 20px;  /* Adjust based on the size of the icon you want. */
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.github-btn {
+    display: inline-block;
+    background-color: #333;  /* Dark background for the button */
+    padding: 10px 15px;  /* Spacing inside the button */
+    border-radius: 5px;  /* Rounded corners */
+    color: #ffffff;
+    text-decoration: none; 
+    transition: background-color 0.3s ease; 
+}
+
+.github-btn:hover {
+    background-color: #555; 
+}
+
+.github-btn img {
+    width: 20px;
+    vertical-align: middle;
+    margin-right: 5px;
 }

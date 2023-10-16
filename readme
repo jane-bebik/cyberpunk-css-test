@@ -1,0 +1,33 @@
+Cyberpunk Edgerunner Website
+Overview
+A website dedicated to the audio track "I really want to stay at your house tonight." Inspired by the Cyberpunk aesthetic, it provides a visually rich and interactive experience to visitors.
+
+Features
+Header Logo: Featuring the Cyberpunk Edgerunners logo.
+Three-Column Design: With the left column for the song's starting lines, a middle column for the audio player, and the right column for the concluding lines.
+Highlighting: Specific words are highlighted for emphasis.
+Lyrics Box: Displays the complete lyrics of the song with special highlights.
+Footer: Contains author attribution, a picture credit, and a link to the GitHub profile of the creator.
+Technologies and Libraries Used
+HTML5: To structure the website content.
+CSS3: To style the website and position elements.
+Google Fonts: The Montserrat font is used for specific highlighted text.
+Installation and Setup
+Clone the repository to your local machine.
+Navigate to the project directory.
+Open the index.html file in your preferred browser to view the website.
+Customization
+Background Image: Modify the background-image property in the body selector in styles.css to change the background.
+Audio File: Update the src attribute of the audio tag in index.html to replace or add new audio tracks.
+Fonts and Typography: Modify the styles.css file.
+Providing Media (Images & Songs)
+Due to copyright considerations, the repository doesn’t include actual media files (images & songs). You need to add them manually:
+
+Place your chosen background image in the pics directory and update the filename in the styles.css file.
+Place your audio files in the songs directory and update the filenames in the index.html file.
+Make sure you have the legal right to use the media you add to the project.
+
+Credits
+Song Artists: Rosa Walton and Hallie Coggins.
+Website Creator: Jane Tavares Bebik.
+Image Credits: Courtesy of Netflix © 2022.
